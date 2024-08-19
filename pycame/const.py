@@ -4,7 +4,7 @@
 DEBUG_DEEP = False
 
 # Base library constants
-VERSION = "2023.10.1"
+VERSION = "2024.04.1"
 ISSUE_URL = "https://github.com/Den901/python_came_manager/issues"
 
 STARTUP_MESSAGE = f"""
